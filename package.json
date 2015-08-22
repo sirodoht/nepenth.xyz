@@ -1,0 +1,23 @@
+{
+  "name": "nepenth.xyz",
+  "version": "1.0.0",
+  "description": "An illusion, a shadow, a story.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirodoht/nepenth.xyz.git"
+  },
+  "author": "sirodoht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirodoht/nepenth.xyz/issues"
+  },
+  "homepage": "https://github.com/sirodoht/nepenth.xyz#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
